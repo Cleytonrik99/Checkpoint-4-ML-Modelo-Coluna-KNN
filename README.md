@@ -108,7 +108,7 @@ Resposta esperada:
 
 ```json
 {
-  "predicao": [0]
+  "predicao": [1]
 }
 ```
 
